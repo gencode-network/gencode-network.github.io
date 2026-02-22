@@ -1,0 +1,21 @@
+﻿species,taxon_group,study_id,marker,metric,value,lat,lon,site_name,year,n
+Quercus alba,Plants,10.1111/study1,WGS,He,0.21,40.1,-88.2,Forest Plot A,2019,24
+Quercus alba,Plants,10.1111/study1,WGS,He,0.18,41.3,-87.9,Forest Plot B,2020,30
+Pinus ponderosa,Plants,10.2222/study2,RADseq,He,0.12,35.4,-120.7,Site CA-1,2018,18
+Pinus ponderosa,Plants,10.2222/study2,RADseq,He,0.15,36.1,-121.2,Site CA-2,2018,22
+Pteropus vampyrus,Mammals,10.3333/study3,Microsat,He,0.34,3.1,101.7,Malaysia Site,2017,16
+Pteropus vampyrus,Mammals,10.3333/study3,Microsat,He,0.29,2.8,102.1,Malaysia Site 2,2017,19
+Drosophila melanogaster,Insects,10.4444/study4,WGS,pi,0.008,48.8,2.3,Paris Pop,2021,50
+Drosophila melanogaster,Insects,10.4444/study4,WGS,pi,0.011,51.5,-0.1,London Pop,2021,45
+Arabidopsis thaliana,Plants,10.5555/study5,WGS,pi,0.004,52.5,13.4,Berlin Site,2022,40
+Arabidopsis thaliana,Plants,10.5555/study5,WGS,pi,0.006,50.1,8.6,Frankfurt Site,2022,38
+Escherichia coli,Microbes,10.6666/study6,WGS,pi,0.002,42.3,-71,Boston Sample,2023,100
+Escherichia coli,Microbes,10.6666/study6,WGS,pi,0.003,37.8,-122.4,SF Sample,2023,95
+Panthera onca,Mammals,10.7777/study7,RADseq,He,0.41,-3.4,-62.2,Amazon Site,2016,12
+Panthera onca,Mammals,10.7777/study7,RADseq,He,0.38,-2.9,-60.1,Amazon Site 2,2016,15
+Fagus sylvatica,Plants,10.8888/study8,Microsat,He,0.22,47.6,7.6,Swiss Forest,2015,20
+Fagus sylvatica,Plants,10.8888/study8,Microsat,He,0.19,48.2,16.3,Austria Forest,2015,21
+Anolis sagrei,Reptiles,10.9999/study9,RADseq,He,0.27,25.7,-80.2,Florida Site,2020,14
+Anolis sagrei,Reptiles,10.9999/study9,RADseq,He,0.31,23.1,-82.3,Cuba Site,2020,17
+Parus major,Birds,10.1212/study10,WGS,pi,0.005,55.7,12.6,Copenhagen Site,2019,28
+Parus major,Birds,10.1212/study10,WGS,pi,0.007,59.3,18.1,Stockholm Site,2019,25
