@@ -3783,3 +3783,19 @@ input, select, textarea {
 			}
 
 		}
+
+		.features {
+    display: flex;
+    gap: 2rem;              /* optional spacing */
+}
+
+.features li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;    /* horizontal centering */
+    text-align: center;
+}
+
+.features .actions {
+    margin-top: auto;       /* pushes button downward consistently */
+}
