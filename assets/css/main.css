@@ -3786,7 +3786,7 @@ input, select, textarea {
 
 		.features {
     display: flex;
-    gap: 2rem;              /* optional spacing */
+    gap: 1rem;              /* optional spacing */
 }
 
 .features li {
