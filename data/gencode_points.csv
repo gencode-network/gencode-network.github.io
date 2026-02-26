@@ -1,0 +1,21 @@
+﻿community_id,community_name,region,lat,lon,taxon_group,species,study_id,contact,marker,method,n_loci,genome_build,pipeline_version,year,n_samples,Ne,ne_ci_low,ne_ci_high
+C001,BCI ForestGEO,Panama,9.154,-79.846,Plants,Beilschmiedia pendula,10.1111/study1,bci-team@forestgeo.org,WGS,LD-based Ne inference,85000,Ref_v1,0.3.1,2019,24,1800,1400,2300
+C001,BCI ForestGEO,Panama,9.154,-79.846,Plants,Faramea occidentalis,10.1111/study1,bci-team@forestgeo.org,WGS,SFS-based inference,92000,Ref_v1,0.3.1,2019,18,950,700,1250
+C001,BCI ForestGEO,Panama,9.154,-79.846,Plants,Inga marginata,10.1111/study1,bci-team@forestgeo.org,WGS,LD-based Ne inference,88000,Ref_v1,0.3.1,2019,20,1200,900,1600
+C001,BCI ForestGEO,Panama,9.154,-79.846,Arthropods,Atta cephalotes,10.1111/study1,bci-team@forestgeo.org,RADseq,SFS-based inference,12000,NA,0.3.1,2019,30,2200,1700,2800
+C002,Kruger Long-term Plots,South Africa,-23.988,31.554,Plants,Combretum apiculatum,10.2222/study2,kruger-genomics@org.za,RADseq,SFS-based inference,11000,NA,0.3.1,2017,20,700,450,1000
+C002,Kruger Long-term Plots,South Africa,-23.988,31.554,Plants,Inga marginata,10.2222/study2,kruger-genomics@org.za,WGS,LD-based Ne inference,76000,Ref_v1,0.3.1,2017,16,1050,780,1400
+C002,Kruger Long-term Plots,South Africa,-23.988,31.554,Birds,Corvus albus,10.2222/study2,kruger-genomics@org.za,WGS,SFS-based inference,64000,Ref_v2,0.3.1,2017,22,1600,1200,2050
+C002,Kruger Long-term Plots,South Africa,-23.988,31.554,Arthropods,Atta cephalotes,10.2222/study2,kruger-genomics@org.za,RADseq,SFS-based inference,9500,NA,0.3.1,2017,25,2100,1600,2700
+C003,Western Ghats Monitoring Sites,India,11.406,76.693,Plants,Dipterocarpus indicus,10.3333/study3,ghats-lab@institute.in,WGS,LD-based Ne inference,99000,Ref_v1,0.3.1,2021,28,1100,820,1450
+C003,Western Ghats Monitoring Sites,India,11.406,76.693,Plants,Faramea occidentalis,10.3333/study3,ghats-lab@institute.in,WGS,SFS-based inference,87000,Ref_v1,0.3.1,2021,19,880,650,1200
+C003,Western Ghats Monitoring Sites,India,11.406,76.693,Reptiles,Calotes versicolor,10.3333/study3,ghats-lab@institute.in,RADseq,SFS-based inference,14000,NA,0.3.1,2021,14,900,600,1250
+C003,Western Ghats Monitoring Sites,India,11.406,76.693,Microbes,Streptomyces sp.,10.3333/study3,ghats-lab@institute.in,WGS,LD-based Ne inference,120000,NA,0.3.1,2021,60,5000,3800,6500
+C004,Borneo Community Transects,Malaysia,3.139,101.686,Plants,Shorea leprosula,10.4444/study4,borneo-team@uni.my,WGS,LD-based Ne inference,91000,Ref_v3,0.3.1,2018,25,1300,980,1700
+C004,Borneo Community Transects,Malaysia,3.139,101.686,Plants,Beilschmiedia pendula,10.4444/study4,borneo-team@uni.my,WGS,SFS-based inference,84000,Ref_v1,0.3.1,2018,21,1400,1050,1850
+C004,Borneo Community Transects,Malaysia,3.139,101.686,Bats,Pteropus vampyrus,10.4444/study4,borneo-team@uni.my,Microsat,Temporal Ne estimator,18,NA,0.3.1,2018,19,650,420,980
+C004,Borneo Community Transects,Malaysia,3.139,101.686,Arthropods,Atta cephalotes,10.4444/study4,borneo-team@uni.my,RADseq,SFS-based inference,13000,NA,0.3.1,2018,22,2300,1750,2950
+C005,Amazon Plot Network,Brazil,-3.465,-62.215,Plants,Eschweilera coriacea,10.5555/study5,amazon-hub@br.org,WGS,LD-based Ne inference,77000,Ref_v4,0.3.1,2016,23,900,650,1250
+C005,Amazon Plot Network,Brazil,-3.465,-62.215,Plants,Faramea occidentalis,10.5555/study5,amazon-hub@br.org,WGS,SFS-based inference,82000,Ref_v1,0.3.1,2016,17,990,720,1350
+C005,Amazon Plot Network,Brazil,-3.465,-62.215,Birds,Ramphastos tucanus,10.5555/study5,amazon-hub@br.org,WGS,LD-based Ne inference,69000,Ref_v2,0.3.1,2016,15,1400,1000,1900
+C005,Amazon Plot Network,Brazil,-3.465,-62.215,Mammals,Panthera onca,10.5555/study5,amazon-hub@br.org,RADseq,SFS-based inference,12500,NA,0.3.1,2016,12,300,180,520
